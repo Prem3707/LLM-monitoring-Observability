@@ -1,4 +1,4 @@
-# 📈 Project 3: Monitoring & Observability
+# 📈  Monitoring & Observability
 
 ## What Is It?
 A production observability layer that wraps any LLM/RAG system with full tracing, latency percentiles (p50/p95/p99), cost tracking, and a live dashboard. Includes a CI regression gate that blocks deployment if latency or quality degrades.
